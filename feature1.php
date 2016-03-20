@@ -5,6 +5,7 @@ echo "feature extar";
 echo "feature extar2";
 echo "feature merge";
 echo "from test 2";
+echo "from test branch";
 
 
 
